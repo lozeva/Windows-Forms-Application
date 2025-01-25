@@ -1,2 +1,2 @@
 # Windows-Forms-Application
-Sample windows forms application, using C# and MySQL
+Sample Windows Forms Application built with C# and MySQL, featuring functionality for user login, registration, and booking training sessions.
